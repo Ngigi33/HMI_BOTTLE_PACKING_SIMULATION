@@ -25,8 +25,8 @@ Built using a Siemens S7-1200 PLC (CPU 1214), the simulation was brought to life
 ## 🧩 Software & Programming Environment
 * TIA Portal: The all-in-one workspace for PLC programming, HMI design, and simulation magic
 * Communication Protocol: PROFINET for smooth operator-to-machine (and bottle-to-crate) communication
-* 
-![Screenshot 2024-12-10 072532](https://github.com/user-attachments/assets/83cd80d5-4428-4b31-a5bc-cd1476e98979)#
+  
+![Screenshot 2024-12-10 072532](https://github.com/user-attachments/assets/83cd80d5-4428-4b31-a5bc-cd1476e98979)
 
 ## Video Simulation
 https://drive.google.com/file/d/10sODLVHH_6RRnM2SXUTCFAtSbP1zv7es/view?usp=drive_link
